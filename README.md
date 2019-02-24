@@ -1,6 +1,6 @@
-#This is my markdown file with pancreatic feelings!
+# This is my markdown file with pancreatic feelings!
 
-##Pancreatic Image:
+## Pancreatic Image:
 
 ![pancreatic](pancreas.jpg)
 
